@@ -11,13 +11,13 @@ The humans are denoted by H
 The prey are denoted by O
 and the predators are denoted by X
 
-***Run Instructions**
+***Run Instructions***
 1. Open the '.py' file in a python editor
 2. Edit desired values
 3. Run program
 
 ***Things I'd Like to Improve***
-I'd Like to add a UI to this project. Rather than displaying the islad as a grid, I'd like to display it as a photo of an island, and then denote the mammals by their respective photos.
+I'd Like to add a UI to this project. Rather than displaying the island as a grid, I'd like to display it as a photo of an island, and then denote the mammals by their respective photos.
 
 I'd also like to give a better delivery of the project in terms of user friendliness.
 
